@@ -1,0 +1,128 @@
+#page {
+  background-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  margin: auto;
+  width: 505px;
+  /* height: 842px; */
+  text-align: justify;
+  box-shadow: 4px 4px darkgrey;
+}
+
+body {
+  width: 100%;
+  text-align: center;
+  background-color: gray;
+  margin: auto;
+  padding: 25px 25px 25px 25px;
+}
+
+#nav_menu {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  text-align: center;
+  background-color: white;
+  margin: auto;
+  padding: 25px 25px 25px 25px;
+}
+a.menu_bar {
+  /* a:link */
+  font-size: 18px;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  text-decoration: dotted;
+}
+
+a.menu_bar:hover {
+  font-size: 20px;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  text-decoration: none;
+}
+
+a.menu_bar:active {
+  font-size: 15px;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  color: yellow;
+  text-decoration: none;
+}
+
+a.menu_bar:visited {
+  font-size: 18px;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  color: cyan;
+  text-decoration: none;
+}
+
+a.link {
+  /* a:link */
+  font-size: 13px;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  text-decoration: dotted;
+}
+
+a.link:hover {
+  font-size: 15px;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  text-decoration: none;
+}
+
+a.link:active {
+  font-size: 10px;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  color: yellow;
+  text-decoration: none;
+}
+
+a.link:visited {
+  font-size: 13px;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  color: cyan;
+  text-decoration: none;
+}
+
+#cover_page {
+  text-align: center;
+  background-color: white;
+  margin: auto;
+  padding: 0px 25px 0px 25px;
+}
+#certificate {
+  margin: auto;
+  padding: 0px 25px 0px 25px;
+  text-align: justify;
+  text-justify: auto;
+}
+#aboutme {
+  margin: auto;
+  padding: 0px 25px 0px 25px;
+  text-align: justify;
+  text-justify: auto;
+}
+#project {
+    margin: auto;
+    padding: 0px 25px 0px 25px;
+    text-align: justify;
+    text-justify: auto;
+  }
+#linkedin {
+    margin: auto;
+    padding: 0px 25px 0px 25px;
+    text-align: justify;
+    text-justify: auto;
+  }  
+h3{
+    color: orange;
+}
